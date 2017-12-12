@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#3f3f40</color>
+<color name="colorPrimaryDark">#91000000</color>
+<color name="colorAccent">#c3ff4040</color>
+<color name="BLACK">#070708</color>
+    <color name="BLACK1">#e4e4f2</color>
+    <color name="hazelblue">#5d67c2ff</color>
+    <color name="navyblue">#093ff1</color>
+    <color name="navyblue1">#587a86ae</color>
+    <color name="yellow">#99efe29f</color>
+    <color name="yellowtransparent">#45efe29f</color>
+    <color name="yellowselect">#99e68a01</color>
+    <color name="yellowselecttransparent">#7f155649</color>
+    <color name="white">#00ffffff</color>
+    <color name="win">#d3ffbf1c</color>
+    <color name="winfav">#1cffe5</color>
+</resources>
